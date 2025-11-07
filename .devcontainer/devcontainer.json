@@ -1,0 +1,4 @@
+{
+  "image": "node:22.6.0-alpine3.20",
+  "forwardPorts": [3000]
+}
